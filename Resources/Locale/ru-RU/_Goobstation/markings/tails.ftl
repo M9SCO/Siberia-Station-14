@@ -1,0 +1,12 @@
+# SPDX-FileCopyrightText: 2026 Jvne <juneialduncan@gmail.com>
+#
+# SPDX-License-Identifier: AGPL-3.0-or-later
+
+marking-dogTail = Собачий хвост
+marking-dogTailWag = Собачий хвост (Виляющий)
+
+marking-SynthTailSynthliz = Синт-хвост (Синт-ящер)
+marking-SynthTailSynthliz-tail_synthliz = Хвост
+
+marking-SynthTailSynthlizWag = Синт-хвост (Синт-ящер, виляние)
+marking-SynthTailSynthlizWag-tail_synthliz_wagging = Хвост

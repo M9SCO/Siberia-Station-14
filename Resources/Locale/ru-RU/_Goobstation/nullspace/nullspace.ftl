@@ -1,0 +1,10 @@
+cmd-nullspace-desc = Отправляет игрока в нуль-пространство — лабиринт от первого лица с чем-то внутри.
+cmd-nullspace-help = Использование: nullspace [player] [задержка клоуна в секундах]
+cmd-nullspace-hint-player = [player]
+cmd-nullspace-hint-delay = [задержка клоуна в секундах]
+cmd-nullspace-no-player = Нет игрока с именем {$player}.
+cmd-nullspace-bad-delay = {$delay} — недопустимая задержка.
+cmd-nullspace-sent = {$player} отправлен в нуль-пространство.
+cmd-nullspace-not-in-game = Этот игрок не в игре.
+cmd-nullspace-already = Этот игрок уже в нуль-пространстве.
+cmd-nullspace-no-mind = У этого игрока нет разума для отправки.
