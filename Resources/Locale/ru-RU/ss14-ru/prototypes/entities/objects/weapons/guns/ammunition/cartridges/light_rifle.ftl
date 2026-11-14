@@ -1,0 +1,10 @@
+ent-BaseCartridgeLightRifle = патрон (5.45мм винтовочный)
+    .desc = { ent-BaseCartridge.desc }
+ent-CartridgeLightRifle = патрон (5.45мм винтовочный)
+    .desc = { ent-BaseCartridgeLightRifle.desc }
+ent-CartridgeLightRiflePractice = патрон (5.45мм учебный)
+    .desc = { ent-BaseCartridgeLightRifle.desc }
+ent-CartridgeLightRifleIncendiary = патрон (5.45мм зажигательный)
+    .desc = { ent-BaseCartridgeLightRifle.desc }
+ent-CartridgeLightRifleUranium = патрон (5.45мм урановый)
+    .desc = { ent-BaseCartridgeLightRifle.desc }

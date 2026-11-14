@@ -1,0 +1,78 @@
+slasher-role-greeting = Вы чувствуете непреодолимую жажду мести... и синтвейв. Ночь только начинается, туман густой, и ваше мачете сверкает в свете неоновых звезд. Пришло время показать этим космонавтикам, почему стоит боятся технических помещений.
+ghost-role-information-slasher-name = Мясник
+ghost-role-information-slasher-description = Убивайте и всячески терроризируйте простой экипаж!
+slasher-round-end-agent-name = Мясник
+slasher-summon-meatspike-popup = Прямо из земли появляется жуткий мясной крюк.
+slasher-staggerarea-victim = По вашей спине пробегает леденящий холод!
+slasher-staggerarea-popup = Вы вызываете волну ужаса.
+slasher-regenerate-no-soul = Вам нужна украденная душа для регенерации!
+slasher-soulsteal-success = Вы чувствуете, как темная энергия проходит через вас.
+slasher-soulsteal-start = Вы начинаете высасывать жизненную силу из своей жертвы...
+slasher-soulsteal-fail-not-down = Ваша цель должна быть ослаблена.
+slasher-soulsteal-fail-no-mind = У вашей цели нет души, которую возможно украсть.
+slasher-soulsteal-start-victim = Вы чувствуете, как ваша душа опустошается...
+slasher-soulsteal-success-victim = Вы чувствуете, как частичка вашей души рассеивается.
+slasher-soulsteal-fail-not-valid = Нельзя извлечь душу этой цели.
+slasher-soulsteal-ascendance = ВНИМАНИЕ: Обнаружено мощное псионическое воздействие. Сущность с беспрецедентным уровнем зловещей силы достигла критической массы. Всем сотрудникам рекомендуется вооружиться и передвигаться группами.
+slasher-massacre-start = Воздух наполняется жуткой энергией.
+slasher-massacre-end = Всё возвращается в норму...
+slasher-massacre-target-change = Внимание переключилось на новую цель!
+slasher-massacre-decap = Кажется, это был последний удар...
+slasher-massacre-limb = УМРИ!
+slasher-incorporealize-fail-seen = Вы не можете материализоваться, пока вас видят!
+slasher-corporealize-fail-camera = Вы не можете материализоваться, пока вас видят.
+slasher-corporealize-fail-nearby = Вы не можете материализоваться, пока кто-то рядом!
+slasher-corporealize-fail-inside-wall = Вы не можете материализоваться, пока находитесь в твёрдом объекте!
+reagent-name-slasherium = маньякиум
+reagent-desc-slasherium = Мощный химикат, используемый мясником для регенерации своего тела.
+objective-issuer-slasher = Мясник
+slasher-objective-absorb-souls-title = Поглотить { $count } душ
+slasher-objective-absorb-souls-desc =
+    Экипажу это уже не понадобится.
+    Ты поможешь...
+roles-antag-slasher-name = Мясник
+roles-antag-slasher-objectives = Убивайте и всячески терроризируйте простой экипаж!
+slasher-cannot-use-guns = Огнестрельное оружие нужно лишь тем, кто не ценит поножовщину...
+slasher-machete-no-hands = У вас нет рук!
+slasher-machete-hands-full = Ваши руки заняты!
+slasher-machete-already-holding = Вы уже держите своё мачете!
+slasher-soulsteal-unlock-possession = Ваша сила растёт. Теперь вы можете вселяться в других людей!
+slasher-massacre-already-activated = Бойня уже активна!
+slasher-relentless-grab-activate = Вы готовитесь схватить свою следующую жертву!
+alerts-slasher-seen-name = Статус наблюдения
+alerts-slasher-seen-desc = Показывает, наблюдают ли за вами в данный момент. Вы не можете входить в бестелесную форму или выходить из неё, пока за вами наблюдают.
+
+## Наборы
+
+slasher-kit-select-title = Выберите свой набор
+slasher-kit-select-header = Выберите набор. Каждый из них идёт с уникальной песней и уникальным обликом.
+slasher-kit-select-button = Выбрать
+
+slasher-kit-butcher = Мясник
+slasher-kit-butcher-desc = Классика. Сварочная маска и фартук для безжалостной машины для убийств.
+
+slasher-kit-spring = Пружина
+slasher-kit-spring-desc = Идёт со специальным костюмом с пружинными замками. Пружины выдержат.. наверное.
+
+slasher-kit-billy = Билли
+slasher-kit-billy-desc = «О, привет»
+
+slasher-kit-cult = Культист
+slasher-kit-cult-desc = Идёт со специальной маской. Жуткие божества наблюдают с большим интересом.
+
+slasher-kit-maintenance = Техник
+slasher-kit-maintenance-desc = Идёт с губной гармошкой. «Интересно, где я это уже видел?»
+
+slasher-kit-cannibal = Каннибал
+slasher-kit-cannibal-desc = Ужин подан, и секретный секретный ингредиент — космонавты.
+
+slasher-kit-clown = Клоун
+slasher-kit-clown-desc = Оказывается, не стоило злить хонкматерь. Хонк!
+
+slasher-kit-glutton = Обжора
+slasher-kit-glutton-desc = Нечто голодное рыщет по коридорам. Оно носит не свою кожу и никогда не бывает сыто.
+
+slasher-kit-hockey = Хоккейная маска
+slasher-kit-hockey-desc = Хоккейная маска и мачете. Что ещё нужно?
+
+slasher-soulsteal-ascendance-clown = КРИТИЧЕСКОЕ ПРЕДУПРЕЖДЕНИЕ: Обнаружена беспрецедентная мощь ХОНКА. Всему персоналу сообщается, что на борту находится нечто крайне безумное. Приготовьтесь к удару. ХОНК.

@@ -1,0 +1,12 @@
+round-end-summary-window-station-report-tab-title = Станционный отчёт
+no-station-report-summited = Не было получено станционных отчётов. Представитель вашей станции был оштрафован на 2000 кредитов.
+round-end-summary-window-player-name-role = в роли { $role }, играл { $role }.
+round-end-summary-window-player-name = сыграл { $player }.
+round-end-summary-window-last-words = [italic][color=gray]"{ $lastWords }"[/color][/italic]
+round-end-summary-window-death = { GENDER($entity) ->
+        [male] Он погиб
+        [female] Она погибла
+        [epicene] Они погибли
+       *[neuter] Оно погибло
+    } { $severity } { $type } смертью.
+round-end-summary-window-death-unknown = Их тела не были найдены.

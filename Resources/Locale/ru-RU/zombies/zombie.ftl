@@ -1,0 +1,13 @@
+zombie-transform = { CAPITALIZE($target) } теперь зомби!
+zombie-infection-greeting = Вы стали зомби. Ваша задача - искать и заражать живых. Работайте сообща со своими воскресшими коллегами, чтобы одолеть оставшихся членов экипажа.
+zombie-generic = зомби
+zombie-name-prefix = { $baseName }
+zombie-role-desc = Зловещий мертвец.
+zombie-role-rules = Вы - [color={ role-type-team-antagonist-color }][bold]{ role-type-team-antagonist-name }[/bold][/color]. Ищите и кусайте живых людей, чтобы заразить их и превратить в зомби. Работайте сообща с другими зомби, чтобы захватить станцию.
+zombie-permadeath = В этот раз вы мертвы по-настоящему.
+zombification-resistance-coefficient-value = - Шанс [color=violet]заражения[/color] уменьшен на [color=lightblue]{ $value }%[/color].
+
+# Goob
+zombie-cured-popup = Зомби-инфекция исчезает без следа!
+zombie-cure-failed-popup = Лекарство не срабатывает!
+zombie-roleban-ghosted = Вы стали призраком, потому что вам запрещено играть роль Зомби.

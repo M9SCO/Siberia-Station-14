@@ -1,0 +1,14 @@
+ent-BaseToilet = унитаз
+    .desc = Устройство для удаления мелких отходов, основанное на вращательном моменте. Этот выглядит удивительно чистым.
+ent-ToiletEmpty = унитаз
+    .desc = Устройство для удаления мелких отходов, основанное на вращательном моменте. Этот выглядит удивительно чистым.
+    .suffix = Пустой
+ent-ToiletDirtyWater = { ent-BaseToilet }
+    .desc = { ent-BaseToilet.desc }
+    .suffix = Грязная вода
+ent-ToiletGoldenEmpty = золотой унитаз
+    .desc = Золотая версия аппарата. На боку написано, что он сделан из чистейшего меркурианского золота, а сиденье из натуральной кожи.
+    .suffix = Пустой
+ent-ToiletGoldenDirtyWater = { ent-ToiletGoldenEmpty }
+    .suffix = Грязная вода, Цель кражи
+    .desc = { ent-ToiletGoldenEmpty.desc }

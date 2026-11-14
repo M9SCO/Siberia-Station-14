@@ -1,0 +1,13 @@
+ent-BaseMagazineBoxLightRifle = коробка патронов (5.45мм винтовочные)
+    .desc = { ent-BaseItem.desc }
+ent-MagazineBoxLightRifleBig = ящик патронов (5.45мм винтовочные)
+    .desc = { ent-BaseMagazineBoxLightRifle.desc }
+    .suffix = Большой
+ent-MagazineBoxLightRifle = коробка патронов (5.45мм винтовочные)
+    .desc = { ent-BaseMagazineBoxLightRifle.desc }
+ent-MagazineBoxLightRiflePractice = коробка патронов (5.45мм учебные)
+    .desc = { ent-BaseMagazineBoxLightRifle.desc }
+ent-MagazineBoxLightRifleIncendiary = коробка патронов (5.45мм зажигательные)
+    .desc = { ent-BaseMagazineBoxLightRifle.desc }
+ent-MagazineBoxLightRifleUranium = коробка патронов (5.45мм урановые)
+    .desc = { ent-BaseMagazineBoxLightRifle.desc }

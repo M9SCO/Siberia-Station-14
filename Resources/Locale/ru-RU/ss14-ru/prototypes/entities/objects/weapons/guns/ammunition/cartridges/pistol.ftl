@@ -1,0 +1,13 @@
+ent-BaseCartridgePistol = патрон (9мм авто)
+    .desc = { ent-BaseCartridge.desc }
+ent-CartridgePistol = патрон (9мм авто)
+    .desc = { ent-BaseCartridgePistol.desc }
+ent-CartridgePistolPractice = патрон (9мм учебный)
+    .desc = { ent-BaseCartridgePistol.desc }
+ent-CartridgePistolIncendiary = патрон (9мм зажигательный)
+    .desc = { ent-BaseCartridgePistol.desc }
+ent-CartridgePistolUranium = патрон (9мм урановый)
+    .desc = { ent-BaseCartridgePistol.desc }
+ent-CartridgePistolSpent = патрон (9мм авто)
+    .suffix = Использованный
+    .desc = { ent-BaseCartridgePistol.desc }
