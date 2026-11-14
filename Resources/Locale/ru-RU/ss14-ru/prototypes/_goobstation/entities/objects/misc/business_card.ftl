@@ -1,0 +1,4 @@
+ent-CentralCommandBusinessCard = визитка ЦК
+    .desc = Зелёная карточка с логотипом НаноТрейзен. На обратной стороне что-то написано.
+ent-TunnelClownBusinessCard = визитка тех-клоуна
+    .desc = { ent-CentralCommandBusinessCard.desc }

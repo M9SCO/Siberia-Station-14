@@ -1,0 +1,12 @@
+secretplus-low-title = Секрет+ Лёгкий
+secretplus-low-description = Относительно спокойно. Но не всегда.
+secretplus-mid-title = Секрет+ Средний
+secretplus-mid-description = Обращение с неизвестными, но сбалансированными угрозами.
+secretplus-high-title = Секрет+ Высокий
+secretplus-high-description = Обращение с неизвестными, но сбалансированными угрозами.
+secretplus-admeme-title = Секрет+ Хаос
+secretplus-admeme-description = Если это может случиться — оно случится.
+survivalplus-title = Выживание+
+survivalplus-description = Начинается довольно спокойно. Заканчивается... не совсем.
+secretplus-lowpop-title = Секрет+ Лоу-поп
+secretplus-lowpop-description = Более активный, но менее опасный. Для малого количества экипажа.

@@ -1,0 +1,11 @@
+ui-options-interaction-outline-header = Настройки контура взаимодействия
+ui-options-use-custom-interaction-outline-color = Использовать свои цвета контура взаимодействия
+ui-options-interaction-outline-color-expand = Развернуть настройки цвета контура взаимодействия
+ui-options-interaction-outline-color-valid = Цвет контура для объектов в пределах досягаемости
+ui-options-interaction-outline-color-invalid = Цвет контура для объектов вне пределов досягаемости
+ui-options-interaction-outline-color-example = Это цвет контура.
+ui-options-color-slider-default-button = Сбросить к значению по умолчанию
+ui-options-radio-channel-colors-header = Цвета радиоканалов
+ui-options-use-custom-radio-channel-colors = Использовать свои цвета радиоканалов
+ui-options-radio-channel-colors-expand = Развернуть настройки цвета радиоканалов
+ui-options-radio-channel-colors-example = [{$channel}] Это цвет канала.
