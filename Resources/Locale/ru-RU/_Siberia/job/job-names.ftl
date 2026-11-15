@@ -1,0 +1,15 @@
+job-title-private = рядовой
+job-title-capral = капрал
+job-title-sergeant = сержант
+job-title-junior_noncommissioned_officer = младший унтер-офицер
+job-title-noncommissioned_officer = унтер-офицер
+job-title-staff_officer = офицер
+job-title-lieutenant = лейтенант
+job-title-senior_lieutenant = старший лейтенант
+job-title-captain = гауптман
+job-title-major = майор
+job-title-lieutenant_colonel = подполковник
+job-title-colonel = полковник
+job-title-major_general = генерал-майор
+job-title-lieutenant_general = генерал-лейтенант
+job-title-colonel_general = генерал-полковник
