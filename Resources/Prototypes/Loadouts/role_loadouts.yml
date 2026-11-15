@@ -500,7 +500,7 @@
   id: JobHeadOfSecurity
   groups:
   - HeadofSecurityHead
-  - HeadofSecurityNeck
+  - HoSNeck # Siberia - shoulder marks
   - HeadofSecurityJumpsuit
   - SecurityBackpack
   - SecurityMelee # Goobstation
@@ -528,7 +528,7 @@
   - SecurityBackpack
   - SecurityMelee # Goobstation
   - TrinketsSecurity # Omu Edit
-  - SecurityNeck
+  - SecurityWardenNeck # Siberia - shoulder marks
   - SecurityBelt
   - WardenOuterClothing
   - SecurityShoes
@@ -554,7 +554,7 @@
   - SecurityOuterClothing
   - SecurityShoes
   - SecurityGloves #goob
-  - SecurityNeck
+  - SecurityOfficerNeck # Siberia - shoulder marks
   - SecurityPDA
   - SecurityBelt
   - SurvivalSecurity
@@ -594,7 +594,7 @@
   - SecurityBackpack
   - SecurityMelee # Goobstation
   - SurvivalSecurity
-  - SecurityNeck
+  - SecurityCadetNeck # Siberia - shoulder marks
   - SecurityOuterClothing # Goobstation - Why not.
   - Trinkets
   - SecurityCadetJobTrinkets
